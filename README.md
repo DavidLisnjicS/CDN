@@ -28,7 +28,7 @@ Die Ergebnisse werden in einer Datei wie cdn_test_06-07-2025_14-52-11.txt gespei
 Anpassung
 URLs können direkt im Skript über das urls=(...) Array angepasst werden.
 
-# Version 2: PowerShell (Windows)
+Version 2: PowerShell (Windows)
 Voraussetzungen
 - Windows 10/11 mit PowerShell
 - Internetzugang
